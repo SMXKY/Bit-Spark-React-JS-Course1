@@ -1,0 +1,46 @@
+Part I: The basics of React components //Refer to example 1 after explaining each point
+-> What is a function in Javascript?
+    Think of a function a menu option in a restaurant, when the chef creates a menu option for a dish, he
+    outlines the steps on how to create the dish and the ingredients required. The results of following this
+    recipie leads to the dish.(Function reusability) Now any time a client request for that dish the 
+    chef can just go to his book 
+    of recipies follow the steps and in returns he gets the desired dish every time. Assiteant chefs dont need
+    to know the science or art behind the recipie all the need to do is follow it when needed and it results 
+    in the required dish.
+
+-> What is a return value for a function?
+    The return value in a function is the dish, that comes as a result of following the reciepie
+
+-> What are funciton parameters
+    Funtion parameters are the ingredients in the reciepie, their amounts can be modified to vary the outcome
+    of the resulting dish
+
+Part II: The basics of rendering a html using a function
+-> A function can be used to render the HTML in the DOM
+//Go to example 2, Do it with them step by step
+
+Part III: Components.
+i. What is a react JS Component? 
+-> It is a re-usable piece of code that returns JSX
+ii. What is JSX, and what does it stand for?
+-----------------------
+iii. How does Javasript render JSX in the background
+--------------------
+iv. Writing our first component
+-> Go to your app folder in vs code
+-> Enter the src(source) folder
+-> Create a folder called components
+-> The basic good practices to creating components:
+    1. Create them in a seperate folder 
+    2. Each component should have its own file
+    3. component file names should match the component name
+    4. componet name and file name should start with capital letters
+    5. If there are multiple html elements in a component they must be wrapped in parent html elemen/tag
+    6. In jsx single tags are written as follows: <br />
+-> create a file called studentInfo.js
+-> //Create the component with them step by step
+-> The format for creating components:
+    function ComponentName(){
+        return //jsx
+    }
+//Exercises

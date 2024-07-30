@@ -1,0 +1,20 @@
+Part I: Basic Introduction to React js
+-> What is react js?
+
+-> Why react js?
+
+-> Why is react js a library and not a framework?
+
+Part II: React JS pre-requisites
+i. Download and install node JS
+ii. Install React JS:
+    -> Go to terminal
+    -> Cd into your folder of choice
+    -> Type the commad: npx create-react-app appname
+    (NB: What are the rules to naming react apps)
+iii. Open the folder where the react app was downloaded in vs Code
+iv. open the terminal and type: npm start. This lunches the react app
+v. Ask students to delete all excess react js files
+vi. Explain the differenct folders in and Files in react js.
+vii. Explain the concept of the empty index.html file and how components get rendered when it is served
+viii. Explain Clientside rendering
