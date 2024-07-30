@@ -23,9 +23,12 @@ Part III: Components.
 i. What is a react JS Component? 
 -> It is a re-usable piece of code that returns JSX
 ii. What is JSX, and what does it stand for?
------------------------
+-> It stands for Javascript XML, and It enebles html like syntax to be written in a javasript file
+
 iii. How does Javasript render JSX in the background
---------------------
+//React conversts jsx into regular javasript that is understood by the browser, using a tool call babel
+so that it can be rendered in the browser
+
 iv. Writing our first component
 -> Go to your app folder in vs code
 -> Enter the src(source) folder

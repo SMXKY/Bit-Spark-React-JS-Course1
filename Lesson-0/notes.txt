@@ -1,10 +1,16 @@
 Part I: Basic Introduction to React js
 -> What is react js?
+It is a component based Javascript library used to build user interfaces
 
 -> Why react js?
+    1. The use of components means code can be written once and re-used multiple times
+    2. It provides a faster user application
+    3. It makes the user expirience simmilar to that of using a mobile application
 
 -> Why is react js a library and not a framework?
-
+    Frameworks are opinionated and comprehensive development methods and methodoly, where as React is not 
+    opinionated, as there is no One correct way of creating a React application
+    
 Part II: React JS pre-requisites
 i. Download and install node JS
 ii. Install React JS:
