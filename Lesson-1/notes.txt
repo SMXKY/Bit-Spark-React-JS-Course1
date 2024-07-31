@@ -1,3 +1,5 @@
+#A review of functions and Introduction to React Components
+
 Part I: The basics of React components //Refer to example 1 after explaining each point
 -> What is a function in Javascript?
     Think of a function a menu option in a restaurant, when the chef creates a menu option for a dish, he
